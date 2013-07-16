@@ -115,9 +115,6 @@
 [submodule "cookbooks/haproxy"]
 	path = cookbooks/haproxy
 	url = https://github.com/rcbops-cookbooks/haproxy.git
-[submodule "cookbooks/nova-network"]
-	path = cookbooks/nova-network
-	url = https://github.com/jrametta/nova-network.git
 [submodule "cookbooks/keepalived"]
 	path = cookbooks/keepalived
 	url = https://github.com/rcbops-cookbooks/keepalived.git
@@ -148,3 +145,6 @@
 [submodule "cookbooks/iptables"]
 	path = cookbooks/iptables
 	url = https://github.com/opscode-cookbooks/iptables.git
+[submodule "cookbooks/nova-network"]
+	path = cookbooks/nova-network
+	url = https://github.com/jrametta/nova-network.git
